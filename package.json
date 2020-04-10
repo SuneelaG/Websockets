@@ -1,0 +1,19 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  "author": "Suneela",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/ws": "^7.2.3",
+    "mongoose": "^5.9.7",
+    "ws": "^7.2.3"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.7.8"
+  }
+}
